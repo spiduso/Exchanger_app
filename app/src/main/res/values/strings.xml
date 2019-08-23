@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exchanger</string>
+    <string name="hint_enter_value">0.0</string>
+    <string name="hint_output_value">0.0</string>
+</resources>
